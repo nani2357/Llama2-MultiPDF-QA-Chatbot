@@ -1,8 +1,6 @@
-# Llama2-MultiPDF-QA-Chatbot
+# Multi-PDF Question-Answering with Llama 2 and LangChain
 Chat with Multiple PDFs using Llama 2 and LangChain
 
-
-# Multi-PDF Question-Answering with Llama 2 and LangChain
 
 ## Overview
 
